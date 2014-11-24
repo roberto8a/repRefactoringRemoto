@@ -9,6 +9,7 @@ public class Principal {
 		System.out.println("=======================");
 		
 		System.out.println("La suma de 2+3="+c.suma(2,3));
+		System.out.println("La resta de 2-3="+c.resta(2, 3));
 	}
 
 }
